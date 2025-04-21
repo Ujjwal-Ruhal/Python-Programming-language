@@ -4,17 +4,18 @@
 ....
 like addition, subtraction, multiplication,and division.
 ```
-#### Addition
-print(2 + 3)
+linput from the user
+and the output should be like this
+x = 10
+y = 20
 
-#### Subtraction
-print(3 - 2)
+addition: = 30
+subtraction: = -10
+multiplication: 200
+division: 0.5
+like  this..
 
-#### Multiplication
-print(2 * 3)
-
-#### Division
-print(3 / 2)
+```
 
 ### Task-2
 ## Print a Personalized greeting message
