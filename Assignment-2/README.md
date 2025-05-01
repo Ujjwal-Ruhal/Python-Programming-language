@@ -4,13 +4,13 @@
 
 So I'm using ( if-else Condition ) to solve this problem.
 <br>
-# if Condition:
+## if Condition:
 
-if (test expression):
+if (test expression):<br>
+    statement<br>
+else:<br>
     statement
-else:
-    statement
-
+<br>
 if condition:
     # Code to execute if the condition is true
 else:
@@ -18,10 +18,10 @@ else:
 
 ## check the number is odd or even
 
-# the code syntax is:
+### the code syntax is:
 
 if (n%2==0): 
-    print('even')
+    print('even')<br>
 else:
     print('odd')
 
@@ -30,7 +30,8 @@ else:
 using for loop
 
 so, I'm using ( for loop ) to solve this problem.
-# for loop: A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
+# for loop:
+A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
 for example: print ( Hello ) 100 times so you no use to copy paste like this
 print('Hello')
 print('Hello')
