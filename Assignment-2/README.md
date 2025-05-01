@@ -11,26 +11,26 @@ if (test expression):<br>
 else:<br>
     statement
 <br>
-if condition:
+if condition:<br>
     # Code to execute if the condition is true
-else:
+else:<br>
     # Code to execute if the condition is false
 
 ## check the number is odd or even
 
 ### the code syntax is:
 
-if (n%2==0): 
+if (n%2==0): <br>
     print('even')<br>
-else:
+else:<br>
     print('odd')
 
 
-## Task-2: Sum of Integers From 1 to 50
+## Task-2: Sum of Integers From 1 to 50 <br>
 using for loop
-
-so, I'm using ( for loop ) to solve this problem.
-# for loop:
+<br>
+so, I'm using ( for loop ) to solve this problem.<br>
+# for loop:<br>
 A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
 for example: print ( Hello ) 100 times so you no use to copy paste like this
 print('Hello')
@@ -38,16 +38,18 @@ print('Hello')
 print('Hello')
 print('Hello')
 ..................... like that
-
+<br>
 so, you use for loop is the best way to solve this type of problem's.
-
+<br>
 # Task 2: the syntax of code is
-
+<br>
 n=0 #create a variable
-for i in range(1,51): #1,2,3,.......,50
+<br>
+for i in range(1,51): #1,2,3,.......,50<br>
     n=n+i
 print(n)
-
+<br>
 that's it
+<br>
 Thank you
 
