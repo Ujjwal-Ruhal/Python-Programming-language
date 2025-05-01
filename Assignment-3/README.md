@@ -1,3 +1,4 @@
+<pre>
 # Assignment-3:  Functions & Modules in Python
 ## Task 1:  Calculate Factorial Using a Function 
 
@@ -44,3 +45,6 @@ print(math.log(x))
 print(math.sin(x))
 
 Like that..
+Thats it
+Thank you
+</pre>
