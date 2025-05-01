@@ -1,9 +1,10 @@
-#Assignment 2 : Control Structures in Python
+# Assignment 2 : Control Structures in Python
 
-##Task-1 : Check the number is odd or even
+## Task-1 : Check the number is odd or even
 
 So I'm using ( if-else Condition ) to solve this problem.
-#if Condition:
+<br>
+# if Condition:
 
 if (test expression):
     statement
@@ -15,9 +16,9 @@ if condition:
 else:
     # Code to execute if the condition is false
 
-##check the number is odd or even
+## check the number is odd or even
 
-#the code syntax is:
+# the code syntax is:
 
 if (n%2==0): 
     print('even')
@@ -25,11 +26,11 @@ else:
     print('odd')
 
 
-##Task-2: Sum of Integers From 1 to 50
+## Task-2: Sum of Integers From 1 to 50
 using for loop
 
 so, I'm using ( for loop ) to solve this problem.
-#for loop: A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
+# for loop: A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
 for example: print ( Hello ) 100 times so you no use to copy paste like this
 print('Hello')
 print('Hello')
