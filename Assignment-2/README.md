@@ -14,6 +14,7 @@ else:<br>
 <br>
 if condition:<br>
     # Code to execute if the condition is true
+    <br>
 else:<br>
     # Code to execute if the condition is false
 
