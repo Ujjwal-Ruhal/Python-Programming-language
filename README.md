@@ -23,5 +23,5 @@ Using the Math Module for Calculations ( like import math )
 and complete the task..
 
 thank you
-Author: <Ujjwal>
+Author: Ujjwal Ruhal
 </pre>
