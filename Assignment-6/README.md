@@ -61,7 +61,7 @@ for example: import tkinter
 
 
 
-and the output is: https://github.com/Ujjwal-Ruhal/Python-Programming-language/issues/1
+and the output is: https://github.com/Ujjwal-Ruhal/Python-Programming-language/issues/1#issue-3100287327
 
 
 thats it.....
