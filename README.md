@@ -22,6 +22,16 @@ and
 Using the Math Module for Calculations ( like import math )
 and complete the task..
 
+#3 Assignment 4
+Read a File and Handle Errors
+and
+Write and Append Data to a File 
+
+#3 Assignment 5
+Create a Dictionary of Student Marks
+and
+Demonstrate List Slicing 
+  
 thank you
 Author: Ujjwal Ruhal
 </pre>
