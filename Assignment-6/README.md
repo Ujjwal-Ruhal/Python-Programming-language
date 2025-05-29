@@ -59,6 +59,7 @@ for example: import tkinter
              like that
              create a functions to perform tasks like addition , subtraction , multiplication , division
 
+tkinter color references : https://cs111.wellesley.edu/archive/cs111_fall14/public_html/labs/lab12/tkintercolor.html
 
 
 thats it.....
