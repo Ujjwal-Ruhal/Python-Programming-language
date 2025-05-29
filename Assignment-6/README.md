@@ -61,7 +61,7 @@ for example: import tkinter
 
 
 
-and the output is: ![Image](https://github.com/user-attachments/assets/09aae6d9-4140-4dcb-9fca-91d1604536fb)
+and the output is: https://github.com/Ujjwal-Ruhal/Python-Programming-language/issues/1
 
 
 thats it.....
