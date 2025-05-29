@@ -1,3 +1,4 @@
+<pre>
 # Assignment 6
 
 ## Create a calculator using tkinter 
@@ -11,9 +12,9 @@ tkinter it helps us to create the GUI Applications
 and there are four steps that you have to keep in mind:-
 
 ................................................
-step 1 -> import tkinter
-step 2 -> gui interaction
-step 3 -> adding inputs
+step 1 -> import tkinter,
+step 2 -> gui interaction,
+step 3 -> adding inputs,
 step 4 -> main loop
 ................................................
 
@@ -64,3 +65,4 @@ and the output is:
 
 
 thats it.....
+</pre>
